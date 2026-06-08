@@ -4,7 +4,7 @@ RESPECTIVELY MADE FOR OUR BEAUTIFUL LECTURER, ASSOC. PROF. DR. WAN NOR SHUHADAH 
 
 ## Project Title
 
-Distributed System Simulation using Naming Service, Multithreading, and Data Replication
+Distributed System Simulation on Unisza.edu.my using Naming Service such as SPB, Kelip, Portal, Multithreading and Data Replication
 
 ## Project Description
 
